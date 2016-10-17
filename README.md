@@ -12,14 +12,13 @@ Software  Engineering  is  a  skill  he  uses  to  better  himself  if  his  dre
 
 
 [**Schedule:**](https://sites.google.com/a/hstat.org/dakaraia6799sep11/home)                                               
-1. U.S. history
-2. Algebra 
-3. Earth Science 
-4. Spanish 
-5. Software Engineering
-6. Gym
-7. Lunch
-8. English
+1. U.S. history  
+2. Algebra   
+3. Earth Science   
+4. Spanish   
+6. Gym  
+7. Lunch  
+8. English  
 
 **Favorites in order:**
 * Algebra
